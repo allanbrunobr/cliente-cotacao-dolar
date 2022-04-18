@@ -35,6 +35,4 @@ http://localhost:8082/v1/api/client/periodo/03-04-2021
 ou
 http://localhost:8082/v1/api/client/03-04-2021
 
-# Testes
 
-Infelizmente, não fiz os testes. Nunca fiz parte de alguma Squad de testes por isso, preferi não realizar do que não saber como explicar se questionado. Mas, vendo agora a necessidade, já estou correndo atrás.
